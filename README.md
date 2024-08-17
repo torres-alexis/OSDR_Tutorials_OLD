@@ -2,7 +2,7 @@
 
 ## Documentation
 
-The full documentation is available at [Read the Docs](https://torres-alexis-osdr-tutorials.readthedocs.io/).
+The full documentation is available at [Read the Docs](https://dev-osdr-tutorials.readthedocs.io/).
 
 ## Local Development
 
