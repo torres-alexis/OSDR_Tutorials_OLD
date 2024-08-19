@@ -1,4 +1,4 @@
-# Using the OSDR public AWS S3 Bucket  
+# Using the OSDR Public AWS S3 Bucket  
 
 ## Getting Started with AWS and OSDR Data  
 
