@@ -15,17 +15,20 @@
    pages/guides/using_the_osdr_workspace
    pages/guides/submitting_data_to_osdr
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Portals
-   
    pages/guides/data_visualization_portal
    pages/guides/environmental_data_application
    pages/guides/radlab_portal
 
 .. toctree::
    :maxdepth: 1
+   :caption: Portals
+
+   Data Visualization Portal <https://visualization.genelab.nasa.gov/data/>
+   EDA <https://visualization.osdr.nasa.gov/eda/>
+   RadLab <https://visualization.osdr.nasa.gov/radlab/gui/overview/>
+
+.. toctree::
+   :maxdepth: 1
    :caption: Reference
 
    pages/reference/osdr_abbreviations
-
