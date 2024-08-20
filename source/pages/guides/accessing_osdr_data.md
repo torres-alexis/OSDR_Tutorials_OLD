@@ -1,3 +1,24 @@
+# DEMO1 Accessing Data in the Open Science Data Repository (OSDR)  
+
+## DEMO2
+
+
+DEMO3 TEXT
+
+DEMO4 IMAGE
+```{image} ../../_static/images/GeneLab_patch.png
+:alt: GeneLab Patch
+:width: 800px
+```
+```{image} ../../_static/images/GeneLab_patch.png
+:alt: GeneLab Patch
+:width: 100%
+```
+```{image} ../../_static/images/GeneLab_patch.png
+:alt: GeneLab Patch
+:width: 400px
+```
+
 # Accessing Data in the Open Science Data Repository (OSDR)  
 
 ## Searching for data within the OSDR  
