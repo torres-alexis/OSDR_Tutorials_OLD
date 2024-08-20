@@ -1,8 +1,4 @@
-# DEMO1 Accessing Data in the Open Science Data Repository (OSDR)  
-
-## DEMO2
-
-DEMO3 TEXT
+# Accessing Data in the Open Science Data Repository (OSDR)  
 
 ## Searching for data within the OSDR  
 
