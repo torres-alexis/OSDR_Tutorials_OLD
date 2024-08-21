@@ -19,8 +19,6 @@ DEMO4 IMAGE
 :width: 400px
 ```
 
-# Accessing Data in the Open Science Data Repository (OSDR)  
-
 ## Searching for data within the OSDR  
 
 The [OSDR repository landing page](https://osdr.nasa.gov/bio/repo) has several different search features as shown below.  
